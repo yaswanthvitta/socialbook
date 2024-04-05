@@ -36,6 +36,14 @@ To get started with SocialBook, follow these simple steps:
 
 6. **Explore Features**: Take some time to explore all the features SocialBook has to offer, including portfolio showcase, direct messaging, and privacy settings. Connect with friends, discover new content, and enjoy the social experience. 🕵️‍♂️
 
+## Technologies Used 💻
+**Frontend**: HTML5, CSS3, JavaScript
+**Backend**: Python, Django
+**Database**: SQLite
+**Authentication**: JWT (JSON Web Tokens)
+**Real-time Communication**: WebSocket
+**Version Control**: Git, GitHub
+
 ## Feedback and Support 📧
 
 We value your feedback and strive to continuously improve the SocialBook platform. If you have any questions, suggestions, or encounter any issues while using SocialBook, please don't hesitate to contact our support team at [support@socialbook.com](mailto:yaswanthvitta@gmail.com). We're here to help! 🙌
